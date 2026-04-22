@@ -20,3 +20,8 @@ Employee Salary Prediction is a machine learning-based system designed to estima
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn
 Visualization: Matplotlib
+
+##IMPLEMENTATION
+<img width="1068" height="873" alt="image" src="https://github.com/user-attachments/assets/0867df5f-f96f-4998-afdf-de80fad54c36" />
+<img width="853" height="911" alt="Screenshot 2026-04-22 192319" src="https://github.com/user-attachments/assets/89b7757d-03d8-4781-aca8-7df7e937591f" />
+
